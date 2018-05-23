@@ -1,0 +1,12 @@
+{
+  "name": "tslint-config-evolvator",
+  "version": "0.0.0",
+  "description": "Our TSLint config based on Airbnb JavaScript Style.",
+  "main": "index.js",
+  "repository": "evolvator/tslint-config-evolvator",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-airbnb": "^5.9.2",
+    "tslint-eslint-rules": "^5.3.1"
+  }
+}
