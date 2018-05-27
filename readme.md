@@ -2,7 +2,7 @@
 
 Our TSLint config based on Airbnb JavaScript Style.
 
-[![NPM](https://img.shields.io/npm/v/ancient-cursor.svg)](https://www.npmjs.com/package/ancient-cursor)
+[![NPM](https://img.shields.io/npm/v/tslint-config-evolvator.svg)](https://www.npmjs.com/package/tslint-config-evolvator)
 
 - [tslint-config-evolvator](#tslint-config-evolvator)
   - [Install](#install)
